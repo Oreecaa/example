@@ -5,7 +5,7 @@
   "trigger": 15,
   "interval": 5,
   "minCode": -1,
-  "loaded": false,
+  "loaded": true,
   "ads": {
     "items": 4,
     "ids": {
